@@ -1,0 +1,18 @@
+1711681976118	geckodriver	INFO	Listening on 127.0.0.1:53797
+1711681979177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53798" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilehQ7eLf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711681979560	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711681979643	Marionette	INFO	Listening on port 53808
+WebDriver BiDi listening on ws://127.0.0.1:53798
+Read port: 53808
+1711681979880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53798/devtools/browser/5aa1e094-0265-4dfc-a5d0-1b7f5ff764d0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://owt-employee-app-fe.web.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://owt-employee-app-fe.web.app."
+1711681992484	Marionette	INFO	Stopped listening on port 53808
+JavaScript warning: https://owt-employee-app-fe.web.app/polyfills.js, line 2337: Script terminated by timeout at:
+76657/patchTimer/scheduleTask/data.args[0]@https://owt-employee-app-fe.web.app/polyfills.js:2337:29
+
+Dynamically enable window occlusion 1
